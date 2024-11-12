@@ -1,0 +1,3 @@
+Add-AppxPackage -Path .\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
+irm https://get.activated.win | iex
+winget install Mozilla.Firefox Valve.Steam Telegram.TelegramDesktop Meta.Oculus Discord.Discord qBittorrent.qBittorrent Microsoft.PowerToys
